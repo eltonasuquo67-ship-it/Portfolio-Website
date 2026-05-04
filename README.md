@@ -1,8 +1,6 @@
 <html>
 <body style="text-align:center;font-family:Arial;background:black;color:white;padding:40px;">
-<body style="margin:0; font-family:Arial; background:#0f172a; color:white>
- 
-  <div style="text-align:center; padding:60px 20px; background:#111827;">
+   <div style="text-align:center; padding:60px 20px; background:#111827;">
     <h1 style="margin:0; font-size:40px;">Elton Asuquo</h1>
     <p style="font-size:18px; color:#cbd5e1;">
       Data Analyst | Power BI | SQL | Excel
