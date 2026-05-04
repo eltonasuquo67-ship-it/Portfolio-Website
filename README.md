@@ -1,8 +1,5 @@
 
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
+<html>
  Elton Asuquo | Data Analyst Portfolio
 </head>
 
