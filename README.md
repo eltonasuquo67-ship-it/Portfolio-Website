@@ -1,11 +1,9 @@
 
 <html>
  Elton Asuquo | Data Analyst Portfolio
-</head>
 
 <body style="margin:0; font-family:Arial; background:#0f172a; color:white;">
-
-  <!-- Header -->
+ <!-- Header -->
   <div style="text-align:center; padding:60px 20px; background:#111827;">
     <h1 style="margin:0; font-size:40px;">Elton Asuquo</h1>
     <p style="font-size:18px; color:#cbd5e1;">
@@ -15,7 +13,6 @@
       Turning raw data into clear insights that support better business decisions
     </p>
   </div>
-
   <!-- About -->
   <div style="max-width:800px; margin:auto; padding:30px;">
     <h2>👤 About Me</h2>
@@ -24,7 +21,6 @@
       I enjoy working with data to discover patterns, solve problems, and present insights in a simple and meaningful way.
     </p>
   </div>
-
   <!-- Skills -->
   <div style="max-width:800px; margin:auto; padding:30px;">
     <h2>🧠 Skills</h2>
@@ -36,7 +32,6 @@
       <li>Basic Data Storytelling</li>
     </ul>
   </div>
-
   <!-- Projects -->
   <div style="max-width:800px; margin:auto; padding:30px;">
     <h2>📊 Projects</h2>
@@ -56,7 +51,6 @@
   Cleaned messy datasets, removed duplicates, handled missing values, and prepared structured reports for analysis.
     </p>
   </div>
-
   <!-- Contact -->
   <div style="max-width:800px; margin:auto; padding:30px;">
     <h2>📞 Contact</h2>
