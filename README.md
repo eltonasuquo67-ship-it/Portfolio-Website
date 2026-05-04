@@ -1,8 +1,6 @@
 
-<html>
  Elton Asuquo | Data Analyst Portfolio
-
-<body style="margin:0; font-family:Arial; background:#0f172a; color:white;">
+<body style="margin:0; font-family:Arial; background:#0f172a; color:white>
  <!-- Header -->
   <div style="text-align:center; padding:60px 20px; background:#111827;">
     <h1 style="margin:0; font-size:40px;">Elton Asuquo</h1>
