@@ -1,7 +1,7 @@
 <html>
 <body style="margin:0; font-family:Arial; background:#0f172a; color:white;">
  <!-- Header -->
-  <div style="text-align:center; padding:40px 20px; background:#111827;">
+  <div style="text-align:center; padding:30px 20px; background:#111827;">
     <h1 style="margin:0; font-size:40px;">Elton Asuquo</h1>
     <p style="font-size:18px; color:#cbd5e1;">
       Data Analyst | Power BI | SQL | Excel
