@@ -40,7 +40,7 @@
    Phone:+2349037908403
    
   
-   <a href="https://www.linkedin.com" style="color:#38bdf8;">
+   LinkedIn:<a href="https://www.linkedin.com" style="color:#38bdf8;">
         Visit My LinkedIn Profile
       </a>
    
