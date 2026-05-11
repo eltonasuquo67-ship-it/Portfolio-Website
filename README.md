@@ -42,7 +42,7 @@
       <a href="https://www.linkedin.com" style="color:#38bdf8;">
         Visit My LinkedIn Profile
       </a>
-    </p>
+   
 
     <p>
       <b>GitHub:</b>
