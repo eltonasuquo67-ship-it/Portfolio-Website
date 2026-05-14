@@ -86,6 +86,11 @@
 
     <!-- Project 1 -->
     <div class="card">
+    📊 US Population Growth and Census Analysis (1950–2015)
+
+🚀 Overview
+
+This project analyzes U.S. population trends from 1950–2015 using Excel, SQL, and Power BI. It highlights regional growth patterns, state-level insights, and long-term population changes.
 
       <img src="YOUR-IMAGE-LINK" alt="Cyber Security Threat Analysis">
 
