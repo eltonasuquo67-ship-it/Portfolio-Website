@@ -24,11 +24,7 @@
     <p style="font-size:18px; color:#cbd5e1;">
       Data Analyst | Power BI | SQL | Excel
     </p>
-    <p style="color:#94a3b8;">
-      Data Analyst with a sales background skilled in turning data into actionable insights that drive business growth, 
-      with strong analytical, communication, and problem-solving skills.
-    </p>
-
+    <p style="color:#94a3b8;
 
 
 <!-- Contact -->
@@ -61,8 +57,8 @@
   <div style="max-width:800px; margin:auto; padding:20px;">
     <h2>👤 About Me</h2>
     <p>
-      I am a passionate Data Analyst skilled in extracting, cleaning, analyzing, and visualizing data to help organizations make informed decisions.
-      I enjoy working with data to discover patterns, solve problems, and present insights in a simple and meaningful way.
+      I am a passionate Data Analyst with a strong sales background skilled in extracting, cleaning, analyzing, and visualizing data to help organizations make informed decisions.
+      I enjoy working with data to discover patterns, solve problems, and present insights in a simple and meaningful way for business growth.
     </p>
   </div>
   <!-- Skills -->
