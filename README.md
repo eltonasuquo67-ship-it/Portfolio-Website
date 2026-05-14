@@ -1,6 +1,5 @@
 <html>
 <body style="margin:0; font-family:Arial; background:#0f172a; color:white;">
- <link rel="stylesheet" href="style.css">
  <!-- Header -->
 
 <!-- PROFILE PHOTO SECTION -->
@@ -94,14 +93,14 @@
 This project analyzes global cybersecurity threats over a 10-year period (2015–2024), focusing on attack sources, user impact, financial losses, and incident response performance.
 
 Using SQL, Excel, and Power BI, the project transforms raw data into actionable insights to support cybersecurity decision-making.
-      <img src="PHOTO-2026-05-03-13-26-27.jpg" alt="Cyber Security Threat Analysis">
+
+
+ <img src="PHOTO-2026-05-03-13-26-27.jpg" alt="Cyber Security Threat Analysis">
 
       
 
-      <p>
-        Analyzed cyber attack patterns, security threats, phishing attempts,
-        and system vulnerabilities using data visualization techniques.
-      </p>
+      
+        
 
       <a href="YOUR-GITHUB-LINK" target="_blank">GitHub</a>
 
@@ -113,11 +112,9 @@ Using SQL, Excel, and Power BI, the project transforms raw data into actionable 
 
       <img src="YOUR-IMAGE-LINK" alt="Retail Sales Performance">
 
-      <h3>Retail Sales Performance</h3>
+      
 
-      <p>
-        Built a sales analytics dashboard tracking revenue, customer behavior,
-        product performance, and monthly sales trends.
+      
       </p>
 
       <a href="YOUR-GITHUB-LINK" target="_blank">GitHub</a>
