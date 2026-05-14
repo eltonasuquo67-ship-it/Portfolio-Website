@@ -77,9 +77,48 @@
       <li>Basic Data Storytelling</li>
     </ul>
   </div>
+
+  <section id="projects">
+
+  <h2>My Projects</h2>
+
+  <div class="project-box">
+
+    <div class="card">
+      <img src="https://via.placeholder.com/300" alt="Project 1">
+
+      <h3>Sales Dashboard</h3>
+
+      <p>
+        Interactive dashboard analyzing sales performance and customer trends.
+      </p>
+
+      <a href="https://github.com/" target="_blank">GitHub</a>
+    </div>
+
+
+    <div class="card">
+      <img src="https://via.placeholder.com/300" alt="Project 2">
+
+      <h3>HR Analytics</h3>
+
+      <p>
+        Data analysis project showing employee attrition and workforce insights.
+      </p>
+
+      <a href="https://github.com/" target="_blank">GitHub</a>
+    </div>
+
+  </div>
+
+</section>
   
   <!-- Footer -->
   <div style="text-align:center; padding:20px; background:#111827; color:#94a3b8;">
     © 2026 Elton Asuquo | Data Analyst Portfolio
   </div>
 
+  
+  
+
+   
