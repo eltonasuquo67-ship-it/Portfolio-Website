@@ -86,13 +86,14 @@
 
     <!-- Project 1 -->
     <div class="card">
-    📊 US Population Growth and Census Analysis (1950–2015)
+    📊 Global Cybersecurity Threats Analysis (2015–2024)
 
-🚀 Overview
+🚀 Project Summary
 
-This project analyzes U.S. population trends from 1950–2015 using Excel, SQL, and Power BI. It highlights regional growth patterns, state-level insights, and long-term population changes.
+This project analyzes global cybersecurity threats over a 10-year period (2015–2024), focusing on attack sources, user impact, financial losses, and incident response performance.
 
-      <img src="YOUR-IMAGE-LINK" alt="Cyber Security Threat Analysis">
+Using SQL, Excel, and Power BI, the project transforms raw data into actionable insights to support cybersecurity decision-making.
+      <img src="https://github.com/eltonasuquo67-ship-it/Portfolio-Website/blob/68c1166f4bbf169e37457ec64b7b86ffed3b13d6/PHOTO-2026-05-03-13-26-27.jpg" alt="Cyber Security Threat Analysis">
 
       <h3>Cyber Security Threat Analysis</h3>
 
