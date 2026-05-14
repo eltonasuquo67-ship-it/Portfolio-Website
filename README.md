@@ -85,7 +85,7 @@
   <div class="project-box">
 
     <div class="card">
-      <img src="https://via.placeholder.com/300" alt="Project 1">
+      <img src="https://github.com/eltonasuquo67-ship-it/Portfolio-Website/blob/68c1166f4bbf169e37457ec64b7b86ffed3b13d6/PHOTO-2026-05-03-13-26-27.jpg">
 
       <h3>Sales Dashboard</h3>
 
